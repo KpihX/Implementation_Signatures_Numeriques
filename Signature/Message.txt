@@ -1,0 +1,3 @@
+Salut! On fait un test de notre implémentation des signatures numériques avec MD5 et RSA!
+On va signer ce message et par la suite vérifier s'il n'a pas été altéré!
+A plus pour la vérification...
